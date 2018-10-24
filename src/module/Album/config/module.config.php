@@ -9,10 +9,10 @@ return [
     //         Controller\AlbumController::class => InvokableFactory::class,
     //     ],
     // ],
-    'router' => [
+	'router' => [
         'routes' => [
             'album' => [
-                'type'    => Segment::class,
+                'type'    => \Zend\Router\Http\Segment::class,
                 'options' => [
                     'route' => '/album[/:action[/:id]]',
                     'constraints' => [
