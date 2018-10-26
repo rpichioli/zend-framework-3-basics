@@ -12,10 +12,11 @@
  */
 return [
 	'Zend\Navigation',
+	'Zend\Paginator',
 	'Zend\Form',
-    'Zend\Db',
-    'Zend\Router',
-    'Zend\Validator',
-    'Application',
-    'Album',
+	'Zend\Db',
+	'Zend\Router',
+	'Zend\Validator',
+	'Application',
+	'Album',
 ];
