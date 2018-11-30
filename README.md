@@ -1,4 +1,6 @@
 # zend-framework-3-basics
+>In development phase
+
 The application is located at the `/src` folder.
 
 I used the official **ZendSkeletonApplication**, installed by **composer** in the terminal. Exactly this way:
