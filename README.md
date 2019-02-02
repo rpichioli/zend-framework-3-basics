@@ -1,4 +1,4 @@
-# zend-framework-3-basics
+# zend-framework-3-laboratories
 >In development phase
 
 The application is located at the `/src` folder.
